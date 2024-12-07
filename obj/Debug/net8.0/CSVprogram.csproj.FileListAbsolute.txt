@@ -1,0 +1,85 @@
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram/bin/Debug/net8.0/CSVprogram.exe
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram/bin/Debug/net8.0/CSVprogram.deps.json
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram/bin/Debug/net8.0/CSVprogram.runtimeconfig.json
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram/bin/Debug/net8.0/CSVprogram.dll
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram/bin/Debug/net8.0/CSVprogram.pdb
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram/obj/Debug/net8.0/CSVprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram/obj/Debug/net8.0/CSVprogram.AssemblyInfoInputs.cache
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram/obj/Debug/net8.0/CSVprogram.AssemblyInfo.cs
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram/obj/Debug/net8.0/CSVprogram.csproj.CoreCompileInputs.cache
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram/obj/Debug/net8.0/CSVprogram.dll
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram/obj/Debug/net8.0/refint/CSVprogram.dll
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram/obj/Debug/net8.0/CSVprogram.pdb
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram/obj/Debug/net8.0/CSVprogram.genruntimeconfig.cache
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram/obj/Debug/net8.0/ref/CSVprogram.dll
+C:/Users/N3koDash/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram/bin/Debug/net8.0/CSVprogram.exe
+C:/Users/N3koDash/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram/bin/Debug/net8.0/CSVprogram.deps.json
+C:/Users/N3koDash/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram/bin/Debug/net8.0/CSVprogram.runtimeconfig.json
+C:/Users/N3koDash/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram/bin/Debug/net8.0/CSVprogram.dll
+C:/Users/N3koDash/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram/bin/Debug/net8.0/CSVprogram.pdb
+C:/Users/N3koDash/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram/obj/Debug/net8.0/CSVprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/N3koDash/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram/obj/Debug/net8.0/CSVprogram.AssemblyInfoInputs.cache
+C:/Users/N3koDash/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram/obj/Debug/net8.0/CSVprogram.AssemblyInfo.cs
+C:/Users/N3koDash/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram/obj/Debug/net8.0/CSVprogram.csproj.CoreCompileInputs.cache
+C:/Users/N3koDash/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram/obj/Debug/net8.0/CSVprogram.dll
+C:/Users/N3koDash/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram/obj/Debug/net8.0/refint/CSVprogram.dll
+C:/Users/N3koDash/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram/obj/Debug/net8.0/CSVprogram.pdb
+C:/Users/N3koDash/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram/obj/Debug/net8.0/CSVprogram.genruntimeconfig.cache
+C:/Users/N3koDash/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram/obj/Debug/net8.0/ref/CSVprogram.dll
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram - Copy/bin/Debug/net8.0/CSVprogram.exe
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram - Copy/bin/Debug/net8.0/CSVprogram.deps.json
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram - Copy/bin/Debug/net8.0/CSVprogram.runtimeconfig.json
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram - Copy/bin/Debug/net8.0/CSVprogram.dll
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram - Copy/bin/Debug/net8.0/CSVprogram.pdb
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram - Copy/obj/Debug/net8.0/CSVprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram - Copy/obj/Debug/net8.0/CSVprogram.AssemblyInfoInputs.cache
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram - Copy/obj/Debug/net8.0/CSVprogram.AssemblyInfo.cs
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram - Copy/obj/Debug/net8.0/CSVprogram.csproj.CoreCompileInputs.cache
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram - Copy/obj/Debug/net8.0/CSVprogram.dll
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram - Copy/obj/Debug/net8.0/refint/CSVprogram.dll
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram - Copy/obj/Debug/net8.0/CSVprogram.pdb
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram - Copy/obj/Debug/net8.0/CSVprogram.genruntimeconfig.cache
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/CSVprogram - Copy/obj/Debug/net8.0/ref/CSVprogram.dll
+c:/Users/N3koDash/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/FishingFinal/bin/Debug/net8.0/CSVprogram.exe
+C:/Users/N3koDash/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/FishingFinal/bin/Debug/net8.0/CSVprogram.deps.json
+C:/Users/N3koDash/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/FishingFinal/bin/Debug/net8.0/CSVprogram.runtimeconfig.json
+c:/Users/N3koDash/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/FishingFinal/bin/Debug/net8.0/CSVprogram.dll
+c:/Users/N3koDash/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/FishingFinal/bin/Debug/net8.0/CSVprogram.pdb
+c:/Users/N3koDash/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/FishingFinal/obj/Debug/net8.0/CSVprogram.GeneratedMSBuildEditorConfig.editorconfig
+c:/Users/N3koDash/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/FishingFinal/obj/Debug/net8.0/CSVprogram.AssemblyInfoInputs.cache
+c:/Users/N3koDash/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/FishingFinal/obj/Debug/net8.0/CSVprogram.AssemblyInfo.cs
+c:/Users/N3koDash/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/FishingFinal/obj/Debug/net8.0/CSVprogram.csproj.CoreCompileInputs.cache
+c:/Users/N3koDash/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/FishingFinal/obj/Debug/net8.0/CSVprogram.dll
+c:/Users/N3koDash/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/FishingFinal/obj/Debug/net8.0/refint/CSVprogram.dll
+c:/Users/N3koDash/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/FishingFinal/obj/Debug/net8.0/CSVprogram.pdb
+C:/Users/N3koDash/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/FishingFinal/obj/Debug/net8.0/CSVprogram.genruntimeconfig.cache
+C:/Users/N3koDash/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/FishingFinal/obj/Debug/net8.0/ref/CSVprogram.dll
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/FishingFinal/obj/Debug/net8.0/CSVprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/FishingFinal/obj/Debug/net8.0/CSVprogram.AssemblyInfoInputs.cache
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/FishingFinal/obj/Debug/net8.0/CSVprogram.AssemblyInfo.cs
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/FishingFinal/obj/Debug/net8.0/CSVprogram.csproj.CoreCompileInputs.cache
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/FishingFinal/obj/Debug/net8.0/CSVprogram.dll
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/FishingFinal/obj/Debug/net8.0/refint/CSVprogram.dll
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/FishingFinal/obj/Debug/net8.0/CSVprogram.pdb
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/FishingFinal/bin/Debug/net8.0/CSVprogram.exe
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/FishingFinal/bin/Debug/net8.0/CSVprogram.deps.json
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/FishingFinal/bin/Debug/net8.0/CSVprogram.runtimeconfig.json
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/FishingFinal/bin/Debug/net8.0/CSVprogram.dll
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/FishingFinal/bin/Debug/net8.0/CSVprogram.pdb
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/FishingFinal/obj/Debug/net8.0/CSVprogram.genruntimeconfig.cache
+C:/Users/bi1012440/OneDrive - Ozarks Technical Community College/Documents/CIS -120/Csharp/FishingFinal/obj/Debug/net8.0/ref/CSVprogram.dll
+/workspaces/FishingFinal/bin/Debug/net8.0/CSVprogram
+/workspaces/FishingFinal/bin/Debug/net8.0/CSVprogram.deps.json
+/workspaces/FishingFinal/bin/Debug/net8.0/CSVprogram.runtimeconfig.json
+/workspaces/FishingFinal/bin/Debug/net8.0/CSVprogram.dll
+/workspaces/FishingFinal/bin/Debug/net8.0/CSVprogram.pdb
+/workspaces/FishingFinal/obj/Debug/net8.0/CSVprogram.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/FishingFinal/obj/Debug/net8.0/CSVprogram.AssemblyInfoInputs.cache
+/workspaces/FishingFinal/obj/Debug/net8.0/CSVprogram.AssemblyInfo.cs
+/workspaces/FishingFinal/obj/Debug/net8.0/CSVprogram.csproj.CoreCompileInputs.cache
+/workspaces/FishingFinal/obj/Debug/net8.0/CSVprogram.sourcelink.json
+/workspaces/FishingFinal/obj/Debug/net8.0/CSVprogram.dll
+/workspaces/FishingFinal/obj/Debug/net8.0/refint/CSVprogram.dll
+/workspaces/FishingFinal/obj/Debug/net8.0/CSVprogram.pdb
+/workspaces/FishingFinal/obj/Debug/net8.0/CSVprogram.genruntimeconfig.cache
+/workspaces/FishingFinal/obj/Debug/net8.0/ref/CSVprogram.dll

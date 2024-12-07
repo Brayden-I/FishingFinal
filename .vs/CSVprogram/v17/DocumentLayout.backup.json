@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bi1012440\\OneDrive - Ozarks Technical Community College\\Documents\\CIS -120\\Csharp\\CSVprogram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A5E3A1-7485-4115-BA83-3D6AE5B1B9B0}|CSVprogram.csproj|c:\\users\\bi1012440\\onedrive - ozarks technical community college\\documents\\cis -120\\csharp\\csvprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A5E3A1-7485-4115-BA83-3D6AE5B1B9B0}|CSVprogram.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A5E3A1-7485-4115-BA83-3D6AE5B1B9B0}|CSVprogram.csproj|c:\\users\\bi1012440\\onedrive - ozarks technical community college\\documents\\cis -120\\csharp\\csvprogram\\csvprogram.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F2A5E3A1-7485-4115-BA83-3D6AE5B1B9B0}|CSVprogram.csproj|solutionrelative:csvprogram.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bi1012440\\OneDrive - Ozarks Technical Community College\\Documents\\CIS -120\\Csharp\\CSVprogram\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bi1012440\\OneDrive - Ozarks Technical Community College\\Documents\\CIS -120\\Csharp\\CSVprogram\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAzwFAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:20:37.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CSVprogram",
+              "DocumentMoniker": "C:\\Users\\bi1012440\\OneDrive - Ozarks Technical Community College\\Documents\\CIS -120\\Csharp\\CSVprogram\\CSVprogram.csproj",
+              "RelativeDocumentMoniker": "CSVprogram.csproj",
+              "ToolTip": "C:\\Users\\bi1012440\\OneDrive - Ozarks Technical Community College\\Documents\\CIS -120\\Csharp\\CSVprogram\\CSVprogram.csproj",
+              "RelativeToolTip": "CSVprogram.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T14:20:34.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
